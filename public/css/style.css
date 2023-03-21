@@ -1,0 +1,36 @@
+textarea {
+    width: 100%;
+}
+
+
+.old_comment {
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.parent_comment {
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.child_comment {
+    border: 1px solid grey;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-left: 45px;
+}
+
+.login_form {
+    margin: 0 auto;
+}
+
+.nav-item {
+    float: right;
+}
+
+.nav-link {
+    cursor: pointer;
+    ;
+}
